@@ -1,3 +1,3 @@
 # DeepCode Git Training
 
-version: 1.2.0-develop
+version: 1.2.0
