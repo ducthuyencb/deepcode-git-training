@@ -1,3 +1,3 @@
 # DeepCode Git Training
 
-version: 1.1.0-develop
+version: 1.0.1-hotfix
